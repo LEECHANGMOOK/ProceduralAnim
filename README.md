@@ -6,7 +6,11 @@ ProceduralAnim applies procedural rotational motion across a bone chain and upda
 
 ## Demo
 
-> Demo video / GIF
+
+https://github.com/user-attachments/assets/da6490dd-b497-4243-9239-115563ce6c08
+
+
+
 
 ## Features
 
@@ -56,7 +60,7 @@ The Runtime and Editor source code is included in this repository.
 ## Related Technical Breakdown
 
 A detailed breakdown of the Component Space transform issue and the implementation process is available on my technical blog.
-
+https://uforider.tistory.com/13
 ## Author
 
 **Changmook Lee**
